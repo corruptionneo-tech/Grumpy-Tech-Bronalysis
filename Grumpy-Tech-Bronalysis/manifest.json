@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Grumpy Tech Bronalysis",
+  "version": "0.3",
+  "description": "Use Grumpy Tech Bro's de-bias prompt on the URL in your clipboard in any ai input text box.",
+  "permissions": ["activeTab", "scripting", "https://raw.githubusercontent.com/*", "clipboardRead"],
+  "action": {
+    "default_icon": {
+      "16": "icon16.png",
+	  "32": "icon32.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
