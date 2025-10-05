@@ -34,9 +34,9 @@ Enable Developer Mode: Navigate to chrome://extensions/ in your Chrome browser a
 
 Install the Extension:
 
-###Option A (Unpacked Extension): 
+### Option A (Unpacked Extension): 
  Go to chrome://extensions/, ensure Developer mode is on, and click "Load unpacked extension...". Select the folder titled Grumpy-Tech-Bronalysis.
  
-###Option B (Direct CRX Install, may be limited by current publishing status): 
+### Option B (Direct CRX Install, may be limited by current publishing status): 
  Drag and drop the downloaded .crx file directly onto the chrome://extensions/ page. Chrome will prompt you to confirm the installation.
  Note that this method may trigger warnings about the extension not being from the Web Store.
