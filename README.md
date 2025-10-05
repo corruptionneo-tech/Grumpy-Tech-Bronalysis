@@ -28,7 +28,7 @@ Just find an article you'd like to de-bias on the web.
 
 To install a Chrome extension from outside the Chrome Web Store, follow these steps:
 
-Download the Github files from above: Unpack the zip to a location on your PC.
+Download the Github files from above (under the CODE button): Unpack the zip to a location on your PC.
 
 Enable Developer Mode: Navigate to chrome://extensions/ in your Chrome browser and enable Developer mode by checking the box in the top-right corner.
 
