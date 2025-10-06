@@ -8,6 +8,13 @@
 Use this extension to de-bias articles on the web and analyze the information presented instead of the spin.
 
 Just find an article you'd like to de-bias on the web.
+
+### One-Click with grok - use One-Click-Grumpy
+
+*Visit any article on the web.
+*Click the extension icon to open a new grok chat for de-biasing.
+
+### Any AI Provider- use Grumpy-Tech-Bronalysis
 * Select the URL and press CTRL+C, or right-click and copy in the browser URL bar.
 * Open your tab with an ai chatbot running (i.e. x.com/i/grok).
 * Click inside the input textbox, then click the extension icon to paste and submit.

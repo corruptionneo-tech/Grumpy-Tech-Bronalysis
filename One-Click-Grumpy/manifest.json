@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "One-Click Grumpy Bronalysis",
+  "version": "0.4",
+  "description": "Sends current page URL to Grok for debiasing using Grumpy Tech Bro's de-bias prompt.",
+  "permissions": ["tabs"],
+  "action": {
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
